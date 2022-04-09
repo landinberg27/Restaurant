@@ -321,15 +321,16 @@ body{
 
         @media (max-width:1562px) {
           .menu-block-content-item-img{
-            margin: 0 100px 0 100px;
+            /* margin: 0 100px 0 100px; */
+            margin: 0 auto;
             align-items: center;
             justify-content: center;
-           width: 150px;
+           max-width: 150px;
            
           }
         }
         .menu-block-content-item-img img :last-child{
-            /* margin:0px auto;  */
+            margin:0px auto; 
         }
   
         .menu-block-content-items-structure{   
