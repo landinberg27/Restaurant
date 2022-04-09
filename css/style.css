@@ -322,10 +322,10 @@ body{
         @media (max-width:1562px) {
           .menu-block-content-item-img{
             /* margin: 0 100px 0 100px; */
-            /* margin: 0 auto;
-            align-items: center;
+             margin: 0 auto;
+            /* align-items: center;
             justify-content: center;
-           max-width: 150px; */
+           max-width: 150px;  */
            
           }
         }
