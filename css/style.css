@@ -147,11 +147,7 @@ body{
       .header-menu-item-words{
         color: #e1b838;
          }
-        
-    
-      
-
-      .header-menu-item:hover{      
+.header-menu-item:hover{      
   -webkit-text-shadow: 2px 2px 2px #000;
   -moz-text-shadow: 2px 2px 2px #000;
   text-shadow: 2px 2px 2px #000;
@@ -319,21 +315,21 @@ body{
             display: inline-flex;
             width: 278px;
             height: 278px;
-            margin: 22px 240px 0 0;
-            padding: 0 0px 0 100px;
+            margin: 22px 150px 0 100px;
+            
         }
 
         @media (max-width:1562px) {
           .menu-block-content-item-img{
-            margin: 0 100px 0 0px;
+            margin: 0 100px 0 100px;
             align-items: center;
             justify-content: center;
-            width: 150px;
+           width: 150px;
            
           }
         }
         .menu-block-content-item-img img :last-child{
-            margin:0px auto; 
+            /* margin:0px auto;  */
         }
   
         .menu-block-content-items-structure{   
